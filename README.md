@@ -1,3 +1,3 @@
 # hello-world
 get started program
-Hi Githubbers, I love ROS raspberry linux and C++
+Hi Githubbers, I will be good at ROS raspberry linux and C++
